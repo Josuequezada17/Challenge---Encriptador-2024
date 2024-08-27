@@ -1,5 +1,5 @@
 # Encriptador de Texto
-![Logo de mi proyecto](./img/Decodificador de texto.png)
+![Logo de mi proyecto](./img/DecodificadorDeTexto.png)
 
 
 Este proyecto es una aplicación web sencilla que permite encriptar y desencriptar mensajes de texto. La interfaz es amigable y fácil de usar, permitiendo a los usuarios ingresar texto, encriptarlo, desencriptarlo, y copiar el resultado. Además, sigue una estética limpia y moderna, utilizando CSS y Bootstrap Icons.
